@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706319744959",
+    "project_id": "apneasense-b22f6",
+    "storage_bucket": "apneasense-b22f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706319744959:android:bf987dc41ee46663eceb0a",
+        "android_client_info": {
+          "package_name": "com.example.apneasense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBheKpjj_OtKxNsJG47GHcLtA_colViVak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
